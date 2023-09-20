@@ -117,14 +117,13 @@ We reserve the right to make changes to this Privacy Policy at any time. Any suc
 ## 14. Grievance Officer
 
 1. In accordance with the Information Technology Act, 2000 and the rules made thereunder, the name and contact details of the Grievance Officer are provided below:
-   1. Name: [Name of the Grievance Officer]
-   2. Address: [Address of the Grievance Officer]
-   3. Email: [Email Address of the Grievance Officer]
-   4. Phone: [Phone Number of the Grievance Officer]
-   5. Timings: [Office Timings of the Grievance Officer]
+   1. Name: Kiran Kolluru
+   2. Address: 20, Inorbit Mall Rd, Vittal Rao Nagar, Madhapur, Hyderabad, Telangana 500081
+   3. Email: kiran@90heal.com
+   4. Phone: +91 78429 00107
 
 Please note that this Privacy Policy is subject to change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on the homepage of the Mobile Application or by sending you an email notification. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Effective Date: [Effective Date of the Privacy Policy]
+Effective Date: 20 Sept, 2023
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us at team@90heal.com.
